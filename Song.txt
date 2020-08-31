@@ -4,12 +4,6 @@ You're in the army now
 Oh, oh, you're in the army now
 Now you remember what the draftman said
 <<<<<<< HEAD
-Nothing to do all day but stay in bed
-You're in the army now
-Oh, oh, you're in the army now
-You'll be the hero of the neighbourhood
-Nobody knows that you've left for good
-You're in the army now
-Oh, oh, you're in the army now
+
 =======
 >>>>>>> 243be26d09ecd110cfdb66e6dbef6920816432e4
